@@ -22,4 +22,3 @@ fastapi
 uvicorn
 langserve
 sse-starlette #Streamlit dependency
-langchain_community
