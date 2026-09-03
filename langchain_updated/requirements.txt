@@ -1,0 +1,25 @@
+langchain
+python-dotenv
+langchain-community
+langchain_core
+ipykernel
+pypdf
+bs4
+arxiv
+pymupdf
+langchain_text_splitters
+langchain-openai
+chromadb
+sentence_transformers
+langchain_huggingface
+faiss-cpu
+langchain_chroma
+beautifulsoup4
+langchain-classic
+langchain_groq
+langchain-google-genai
+streamlit
+fastapi
+uvicorn
+langserve
+sse-starlette #Streamlit dependency
